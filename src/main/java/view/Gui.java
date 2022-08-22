@@ -472,7 +472,6 @@ public class Gui extends JFrame {
         }
         if (grades.getItemCount() > 0) {
             LocalDate date = SemesterController.getGradeList().get(grades.getSelectedIndex()).getDate();
-            gradeInfo5.setFont(new TextArea().getFont());
             gradeInfo1.setText("Name: " + SemesterController.getGradeList().get(grades.getSelectedIndex()).getName());
             gradeInfo2.setText("Value: " + SemesterController.getGradeList().get(grades.getSelectedIndex()).getValue());
             gradeInfo3.setText("Weighting: " + SemesterController.getGradeList().get(grades.getSelectedIndex()).getWeighting());
