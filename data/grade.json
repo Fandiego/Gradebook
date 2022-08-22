@@ -1,0 +1,246 @@
+[ {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "03af32ea-6255-455f-8ce5-0f0fa1b711dc",
+  "uuid" : "3c621cd4-3f39-4b85-9361-f89566702ae6",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 2",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "03af32ea-6255-455f-8ce5-0f0fa1b711dc",
+  "uuid" : "50f1a3e2-ece9-456f-8a88-723f0e7aa1e8",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 3",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "03af32ea-6255-455f-8ce5-0f0fa1b711dc",
+  "uuid" : "17693a0d-9480-46fb-8ef9-724d4d9ba9fa",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "17817c72-7cae-41f6-a04c-fc8f51f9e8ae",
+  "uuid" : "3b7dd21d-25ed-4723-8f91-347bda45b203",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 4",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "03af32ea-6255-455f-8ce5-0f0fa1b711dc",
+  "uuid" : "5fe1b1bb-35c1-40f1-aba3-334d9dc5f176",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 5",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "03af32ea-6255-455f-8ce5-0f0fa1b711dc",
+  "uuid" : "7bd40502-3d55-42a1-9595-59beff440858",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "4bfa49b9-c283-46a1-82cd-6dea0f08d7a9",
+  "uuid" : "3067209d-9a6b-4462-b383-9550a63623c1",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "5108d7b5-c844-4043-922a-cebcfec025f8",
+  "uuid" : "747f89f1-dccb-44b8-8a37-1d770d841888",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 2",
+  "value" : 5.0,
+  "weighting" : 0.5,
+  "subjectUuid" : "5108d7b5-c844-4043-922a-cebcfec025f8",
+  "uuid" : "2852f2b7-46a3-4251-809e-2cc694cb2163",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 3",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "5108d7b5-c844-4043-922a-cebcfec025f8",
+  "uuid" : "c3ad2875-b832-4705-8c38-d8343933c673",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 3",
+  "value" : 3.5,
+  "weighting" : 1.0,
+  "subjectUuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2",
+  "uuid" : "af1688ac-85b9-479a-af81-c52490040137",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 3.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "165601d1-f387-4c03-8c1e-c1346fae6d55",
+  "uuid" : "97fe6fff-e45e-49a9-9387-c6e2371891ef",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 4",
+  "value" : 1.9,
+  "weighting" : 1.0,
+  "subjectUuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2",
+  "uuid" : "51b8b2ae-2177-41e2-b266-2619bda7ed89",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 3.0,
+  "weighting" : 0.92,
+  "subjectUuid" : "bd95759d-022c-4ef1-a328-7761fc040696",
+  "uuid" : "5ed0b935-fbdb-4bf5-8059-1d395f18473c",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 5",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2",
+  "uuid" : "787a3fc2-91b4-434e-bff1-2be1426fdcf6",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 6",
+  "value" : 3.2,
+  "weighting" : 1.0,
+  "subjectUuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2",
+  "uuid" : "0c15ccb8-2de2-437b-a1f4-07d45183faa7",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 2.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "eb493735-8048-4ee6-a6ab-30bb4896ed30",
+  "uuid" : "4987b800-b984-4edc-870d-5aa025b1e0ac",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 2",
+  "value" : 1.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "eb493735-8048-4ee6-a6ab-30bb4896ed30",
+  "uuid" : "065dd654-1863-4074-934b-1b469068bc57",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 7",
+  "value" : 1.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2",
+  "uuid" : "c9463a9a-2442-4b9b-8e6d-cb6a91d12ef0",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 8",
+  "value" : 1.0,
+  "weighting" : 2.0,
+  "subjectUuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2",
+  "uuid" : "57c5ff92-73c3-4be9-8181-c3ae05c135f6",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 9",
+  "value" : 1.0,
+  "weighting" : 2.0,
+  "subjectUuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2",
+  "uuid" : "53ba2cf4-2b93-4ec8-b1f1-cbb577b6d17b",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "d03f84bb-57e8-4e83-89d3-f68313967128",
+  "uuid" : "8d2f3b45-dd3a-4c27-bd47-14dc3069d0e2",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 5.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "275ab33d-102b-4bf7-9574-919fc7c4a4ad",
+  "uuid" : "41b38ce1-3ba2-4838-ae09-563b3f39df6d",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "ad982095-f56e-4118-b2a0-6ccea65f33e5",
+  "uuid" : "716ef2bd-beea-439f-bd8b-86305bda5a80",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 6.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "2640f2ec-5b2c-47ce-a31f-e708e597961b",
+  "uuid" : "34269d8f-da82-414e-9a61-2c1339077c68",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "3e8557a5-7c05-4e59-bc13-8fb7b5c5f411",
+  "uuid" : "c4d2668e-53e5-41c2-9ddd-fc0b4bdd3d90",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 2",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "d03f84bb-57e8-4e83-89d3-f68313967128",
+  "uuid" : "d0fa820b-830d-43b5-8a88-09bf3f4ba628",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 2",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "275ab33d-102b-4bf7-9574-919fc7c4a4ad",
+  "uuid" : "c4c9af03-b3f8-4b34-b8e4-fb00e1c65897",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 3",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "275ab33d-102b-4bf7-9574-919fc7c4a4ad",
+  "uuid" : "079bbce7-04e4-496b-9a07-f3c40f40146b",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 3",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "ad982095-f56e-4118-b2a0-6ccea65f33e5",
+  "uuid" : "c87d6417-7a09-4515-8f7e-b224d4af78dd",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 6.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "63ce4bc4-5198-42b4-a4dc-34be9f7e29f9",
+  "uuid" : "621b8cd7-5f60-4a72-b8b6-a1758fd468c3",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 5.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "7e2dbb11-735e-4628-a141-ac13dae28708",
+  "uuid" : "6d607838-18fe-4d45-858d-9cf820909d42",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 4.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "e66a8148-a38c-4583-85b8-884db56ac67c",
+  "uuid" : "5fbe75b9-91f9-4311-9d3a-9165a414ddad",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 5.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "300aad81-01fa-49a7-ab98-8145c387bfb7",
+  "uuid" : "13b8135f-37d8-46c6-b573-cc36af63e4e7",
+  "date" : "2022-08-15"
+}, {
+  "name" : "Prüfung 1",
+  "value" : 2.0,
+  "weighting" : 1.0,
+  "subjectUuid" : "ce1ca300-a68a-426e-8d6f-a5f4bcc0a642",
+  "uuid" : "14bfb659-9547-4383-84ff-335f06495533",
+  "date" : "2022-08-15"
+} ]

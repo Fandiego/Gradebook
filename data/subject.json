@@ -1,0 +1,211 @@
+[ {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "a7573c82-c9e6-4b38-b973-a1d565a6de8b",
+  "uuid" : "7a04517e-3ee2-4806-a6d6-d416b29f8d07"
+}, {
+  "name" : "Ertan",
+  "weighting" : 0.0,
+  "semesterUuid" : "5dd1ebf4-6787-409c-ad6d-55fb15ce4228",
+  "uuid" : "b619c557-c376-446d-b8c8-7a355a3cdedc"
+}, {
+  "name" : "Dogan",
+  "weighting" : 0.0,
+  "semesterUuid" : "5dd1ebf4-6787-409c-ad6d-55fb15ce4228",
+  "uuid" : "a606f508-8a98-4c05-a132-9265b3551162"
+}, {
+  "name" : "Vatani",
+  "weighting" : 0.0,
+  "semesterUuid" : "5dd1ebf4-6787-409c-ad6d-55fb15ce4228",
+  "uuid" : "93ea5e22-d6d0-4750-bc5e-1c0e89a658f7"
+}, {
+  "name" : "Martu",
+  "weighting" : 0.0,
+  "semesterUuid" : "c53ca1d6-ce83-4496-aacb-277183235bec",
+  "uuid" : "dd6e7b6c-6ab8-4178-9f53-32b801857835"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "699d6495-91d5-4701-bfb1-e1fad5eb1550",
+  "uuid" : "bdad38e3-8373-45b0-8a51-02094d6fafa9"
+}, {
+  "name" : "Subject",
+  "weighting" : 0.0,
+  "semesterUuid" : "699d6495-91d5-4701-bfb1-e1fad5eb1550",
+  "uuid" : "f93a2335-905c-4d94-9408-1f64ce147b29"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "8da4f620-388a-4979-90ff-51a21cee48a6",
+  "uuid" : "91610098-382c-47eb-87d2-90b4d016f056"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "0802fb59-e6d8-441a-bca7-b1067eec5584",
+  "uuid" : "7e620e2b-253e-4e88-a98b-e408aebc4b7a"
+}, {
+  "name" : "Alpha",
+  "weighting" : 0.0,
+  "semesterUuid" : "0802fb59-e6d8-441a-bca7-b1067eec5584",
+  "uuid" : "1d355050-4204-4f98-953d-626ab80d9e2c"
+}, {
+  "name" : "Beta",
+  "weighting" : 0.0,
+  "semesterUuid" : "0802fb59-e6d8-441a-bca7-b1067eec5584",
+  "uuid" : "a146cc91-af96-4fad-990c-43f6c6d299b1"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "70431df6-373c-4c94-b795-3463ee87909a",
+  "uuid" : "4b0a2d4f-f93d-448c-9f58-21acdd6a8971"
+}, {
+  "name" : "Subject",
+  "weighting" : 0.0,
+  "semesterUuid" : "8da4f620-388a-4979-90ff-51a21cee48a6",
+  "uuid" : "f619cf62-093d-4733-a4c5-22600a37e8ea"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "f6fbeeb5-6f4a-483e-ae45-bce06aacff5e",
+  "uuid" : "53e64854-2cae-4b9a-9156-c40385af0325"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "f6fbeeb5-6f4a-483e-ae45-bce06aacff5e",
+  "uuid" : "0a2741c5-40f3-4cfd-a7bf-d8abd92bd760"
+}, {
+  "name" : "Math",
+  "weighting" : 0.0,
+  "semesterUuid" : "8da4f620-388a-4979-90ff-51a21cee48a6",
+  "uuid" : "95a1b229-c132-4252-8543-5ea2205292d6"
+}, {
+  "name" : "Subject",
+  "weighting" : 0.0,
+  "semesterUuid" : "2d384a29-f9a9-4523-8d65-ff3e49c229fa",
+  "uuid" : "80c85fdd-bb3c-48de-8b52-27c90aa7b649"
+}, {
+  "name" : "Morn",
+  "weighting" : 0.0,
+  "semesterUuid" : "2d384a29-f9a9-4523-8d65-ff3e49c229fa",
+  "uuid" : "6232ac32-ff41-4d70-894a-fd568a217f03"
+}, {
+  "name" : "KSH",
+  "weighting" : 0.0,
+  "semesterUuid" : "7c7603be-f27a-4343-9ec2-75e4911be88a",
+  "uuid" : "9e964442-7183-4f08-8a1a-abcf96c98ea8"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "8ba5cd07-a137-4a8b-8c40-600efcfb486c",
+  "uuid" : "80b11536-c09e-4fa3-ab6d-9b948be4d9e5"
+}, {
+  "name" : "Subjec",
+  "weighting" : 0.0,
+  "semesterUuid" : "8ba5cd07-a137-4a8b-8c40-600efcfb486c",
+  "uuid" : "4ee01f43-91ce-4dae-b8ae-8e6897e9bcee"
+}, {
+  "name" : "gdfgkdfjök",
+  "weighting" : 0.0,
+  "semesterUuid" : "9ff521ec-dbe8-4dcd-94d8-e01953b28895",
+  "uuid" : "4284e1bb-6730-4b28-b3db-3cb8d1dbbfcf"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "44f47e0b-f1f5-4640-95ad-a436bf6031a5",
+  "uuid" : "1f828c58-7d6e-42ef-b491-3e6bd12ea105"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "8ec1c6f1-3cc3-4368-8550-00ba9b6b347a",
+  "uuid" : "7dc4f530-261e-4c2c-ad0c-4ff133f9efa4"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "df80cf42-36f2-46a5-b1b6-b2fdc654fe5b",
+  "uuid" : "17817c72-7cae-41f6-a04c-fc8f51f9e8ae"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "3641a892-5bc7-438a-b0b3-0575384ea13c",
+  "uuid" : "b4eba6d2-3bfa-4717-ba53-f6c501f06fb1"
+}, {
+  "name" : "Subjectname",
+  "weighting" : 0.0,
+  "semesterUuid" : "e8a76c3b-2707-41bf-a094-199f8243e0a9",
+  "uuid" : "4bfa49b9-c283-46a1-82cd-6dea0f08d7a9"
+}, {
+  "name" : "Subjectn",
+  "weighting" : 0.4,
+  "semesterUuid" : "fbe0a9e4-66bd-42a8-bda5-046ea1a4e44c",
+  "uuid" : "03af32ea-6255-455f-8ce5-0f0fa1b711dc"
+}, {
+  "name" : "Subject: 7",
+  "weighting" : 1.0,
+  "semesterUuid" : "fbe0a9e4-66bd-42a8-bda5-046ea1a4e44c",
+  "uuid" : "5108d7b5-c844-4043-922a-cebcfec025f8"
+}, {
+  "name" : "Subject: 8",
+  "weighting" : 1.0,
+  "semesterUuid" : "fbe0a9e4-66bd-42a8-bda5-046ea1a4e44c",
+  "uuid" : "165601d1-f387-4c03-8c1e-c1346fae6d55"
+}, {
+  "name" : "Subject: 9",
+  "weighting" : 1.0,
+  "semesterUuid" : "fbe0a9e4-66bd-42a8-bda5-046ea1a4e44c",
+  "uuid" : "07909764-a525-4fc1-857f-b57e85f790c3"
+}, {
+  "name" : "Subject: 10",
+  "weighting" : 1.0,
+  "semesterUuid" : "fbe0a9e4-66bd-42a8-bda5-046ea1a4e44c",
+  "uuid" : "aa28b510-e2ef-4117-8d99-b238725cc3d2"
+}, {
+  "name" : "Subject: 11",
+  "weighting" : 1.0,
+  "semesterUuid" : "fbe0a9e4-66bd-42a8-bda5-046ea1a4e44c",
+  "uuid" : "eb493735-8048-4ee6-a6ab-30bb4896ed30"
+}, {
+  "name" : "Subject: 8",
+  "weighting" : 1.0,
+  "semesterUuid" : "fbe0a9e4-66bd-42a8-bda5-046ea1a4e44c",
+  "uuid" : "8513a7cd-320d-4cb5-acb3-ba4fca8cd66d"
+}, {
+  "name" : "Subject: 1",
+  "weighting" : 1.0,
+  "semesterUuid" : "c986b251-390a-4c68-be64-24954453c7e7",
+  "uuid" : "d03f84bb-57e8-4e83-89d3-f68313967128"
+}, {
+  "name" : "Subject: 2",
+  "weighting" : 1.0,
+  "semesterUuid" : "c986b251-390a-4c68-be64-24954453c7e7",
+  "uuid" : "275ab33d-102b-4bf7-9574-919fc7c4a4ad"
+}, {
+  "name" : "Subject: 3",
+  "weighting" : 0.5,
+  "semesterUuid" : "c986b251-390a-4c68-be64-24954453c7e7",
+  "uuid" : "2640f2ec-5b2c-47ce-a31f-e708e597961b"
+}, {
+  "name" : "C",
+  "weighting" : 1.0,
+  "semesterUuid" : "511451db-f7e7-45ad-9fc6-8cdd7de21270",
+  "uuid" : "63ce4bc4-5198-42b4-a4dc-34be9f7e29f9"
+}, {
+  "name" : "B",
+  "weighting" : 0.5,
+  "semesterUuid" : "511451db-f7e7-45ad-9fc6-8cdd7de21270",
+  "uuid" : "7e2dbb11-735e-4628-a141-ac13dae28708"
+}, {
+  "name" : "A",
+  "weighting" : 1.0,
+  "semesterUuid" : "511451db-f7e7-45ad-9fc6-8cdd7de21270",
+  "uuid" : "e66a8148-a38c-4583-85b8-884db56ac67c"
+}, {
+  "name" : "A",
+  "weighting" : 0.25,
+  "semesterUuid" : "e521152e-a8c6-4f4a-ad8b-df40f7214b87",
+  "uuid" : "300aad81-01fa-49a7-ab98-8145c387bfb7"
+}, {
+  "name" : "B",
+  "weighting" : 0.3,
+  "semesterUuid" : "e521152e-a8c6-4f4a-ad8b-df40f7214b87",
+  "uuid" : "ce1ca300-a68a-426e-8d6f-a5f4bcc0a642"
+} ]
